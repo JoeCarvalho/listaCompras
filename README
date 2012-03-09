@@ -1,1 +1,41 @@
-Alterado.
+1.      Resumo:
+·        Criar uma aplicação de listagem de produtos, que facilite o gerenciamento de listas e preços de produtos. Focando em listas de compras de supermercado.
+
+2.      Descrição do Problema:
+·    Devido muitas pessoas possuir dispositivos moveis com sistema operacional Android, porém este está sendo subutilizado.
+
+·    Dificuldade das pessoas em lembrar e/ou organizar todos os itens de uma lista de compras.
+
+·    Complexidade dos aplicativos já existentes que aglomeram muitos recursos e serviços dificultando a compreensão do usuário comum. Além do consumo extremo da memória.
+
+3.      Descrição do Serviço:
+·  Fazer com que dispositivos moveis com o sistema operacional Android possam ser ainda mais usados para tarefas do dia a dia, evitando assim a sua subutilização.
+
+·  Diferenciar dos outros aplicativos já existentes no mercado que oferecem o mesmo serviço, porém de forma mais complexa e difícil de compreensão pelo usuário.
+
+· Ainda em casa o usuário poderá fazer a sua lista de compras daquilo que deseja lembrar, adicionando à lista a quantidade que deseja de cada produto.
+
+·   No caso de haver listas anteriores, o aplicativo deverá armazenar os itens mais procurados e gerar um histórico a ser utilizado para fins de facilitação de digitação.
+
+·    No momento das compras, deverá ser possível adicionar, remover ou editar um produto da lista. Sendo que ao editar, o usuário poderá adicionar ao produto seu preço unitário que será modificado automaticamente dependendo do que for descrito por ele no campo “unidades”.
+
+·    Ao final de cada digitação, o aplicativo deve informar ao usuário a lista de produtos digitados bem como o somatório de todos os valores da lista.
+
+·  As 5 (cinco) listas mais recentes deverão ser armazenadas por data para fim de uma possível consulta do usuário.
+
+4.      Tecnologias e Infra-Estrutura:
+·         Android SDK.
+
+·         Linguagem java.
+
+-    IDE Eclipse
+
+-    Ferramentas: Git Gui, Git Bash, JUnit e EGit
+
+·         Banco de dados local (SQLite).
+
+-   Win7
+
+-   GitHub
+
+·         Blogs diversos para acompanhamento do desenvolvimento do aplicativo.
